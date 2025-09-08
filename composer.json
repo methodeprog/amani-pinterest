@@ -17,5 +17,11 @@
         "psr-4": {
             "Amani\\Pinterest\\": "src/"
         }
-    }
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/methodeprog/amani-pinterest.git"
+        }
+    ]
 }
