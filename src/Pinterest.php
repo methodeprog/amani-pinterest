@@ -5,7 +5,7 @@ namespace Amani\Pinterest;
 use GuzzleHttp\Client as GuzzleClient;
 use GuzzleHttp\Exception\RequestException;
 
-class Client
+class Pinterest
 {
     protected $http;
     protected $accessToken;
